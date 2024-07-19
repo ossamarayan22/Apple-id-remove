@@ -1,37 +1,37 @@
 const product = [
     {
         id: 0,
-        image: 'image/gg-1.png',
+        image: 'gg-1.png',
         title: 'iphone 14 plus',
         price: 800,
     },
     {
         id: 1,
-        image: 'image/gg-1.png',
+        image: 'gg-1.png',
         title: 'iphone 14 plus',
         price: 800,
     },
     {
         id: 2,
-        image: 'image/gg-1.png',
+        image: 'gg-1.png',
         title: 'iphone 14 plus',
         price: 800,
     },
     {
         id: 3,
-        image: 'image/gg-1.png',
+        image: 'gg-1.png',
         title: 'iphone 14 plus',
         price: 800,
     },
     {
         id: 4,
-        image: 'image/gg-1.png',
+        image: 'gg-1.png',
         title: 'iphone 14 plus',
         price: 800,
     },
     {
         id: 5,
-        image: 'image/gg-1.png',
+        image: 'gg-1.png',
         title: 'iphone 14 plus',
         price: 800,
     },
